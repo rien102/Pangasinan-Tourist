@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Pangasinan-Tourist/static/css/main.1d4a1dcc.css",
+    "main.js": "/Pangasinan-Tourist/static/js/main.b3412219.js",
+    "static/media/Pangasinan Logo.png": "/Pangasinan-Tourist/static/media/Pangasinan Logo.58030afb2f2b41b5609b.png",
+    "index.html": "/Pangasinan-Tourist/index.html",
+    "main.1d4a1dcc.css.map": "/Pangasinan-Tourist/static/css/main.1d4a1dcc.css.map",
+    "main.b3412219.js.map": "/Pangasinan-Tourist/static/js/main.b3412219.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d4a1dcc.css",
+    "static/js/main.b3412219.js"
+  ]
+}
